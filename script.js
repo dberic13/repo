@@ -1,7 +1,5 @@
-
-function Mnozenje (a,b) {
-
-    console.log (a*b);
+function Zbrajanje(a, b) {
+  console.log(a + b);
 }
 
-module.exports=(Mnozenje);
+module.exports = Zbrajanje;
