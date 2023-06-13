@@ -1,5 +1,3 @@
-//naš repo
-
 function dijeljenje(a,b) {
     console.log(a/b);
 }
